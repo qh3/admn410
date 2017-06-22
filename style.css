@@ -1,0 +1,46 @@
+.main{
+    margin:0 auto;
+    width:1050px;
+    min-height:800px;
+}
+
+.nav ul{
+    background-color: #ccc;
+    position: relative;
+    float: left;
+    list-style: none;
+}
+
+.nav > ul > li{
+    float:left;
+    display: block;
+    width:200px;
+}
+
+div.footer{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.content{
+    margin:8px;
+    min-height:500px;
+}
+
+p{
+    font-size:13px;
+    line-height: 26px;
+}
+
+.header{
+    background: url(./header.jpg) no-repeat;
+    height:180px;
+    background-size:100%;
+}
+
+.header h2{
+    padding-left:120px;
+}
